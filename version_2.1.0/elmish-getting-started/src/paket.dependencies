@@ -1,0 +1,7 @@
+source https://api.nuget.org/v3/index.json
+
+storage: none
+framework: net5.0, netstandard2.0, netstandard2.1
+nuget Fable.Elmish.React
+nuget Feliz
+nuget Feliz.Router 2.1.0
